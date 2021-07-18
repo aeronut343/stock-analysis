@@ -12,17 +12,17 @@ The refactored code redefined the variables that held volume, starting price, an
 
 ### Old
 2017: 
-![Analysis_2017_preRefactor_runtime](resources/Analysis_2017_preRefactor_runtime.png)
+![Analysis_2017_preRefactor_runtime](resources/Analysis_2017_preRefactor_runtime.PNG)
 
 2018:
-![Analysis_2018_preRefactor_runtime](resources/Analysis_2018_preRefactor_runtime.png)
+![Analysis_2018_preRefactor_runtime](resources/Analysis_2018_preRefactor_runtime.PNG)
 
 ### New
 2017: 
-![VBA_Challenge_2017](resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2017](resources/VBA_Challenge_2017.PNG)
 
 2018:
-![VBA_Challenge_2018](resources/VBA_Challenge_2018.png)
+![VBA_Challenge_2018](resources/VBA_Challenge_2018.PNG)
 
 
 The refactored code executed 5 to 10 times faster than the old code!
